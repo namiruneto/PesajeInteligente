@@ -1,0 +1,288 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\prueba\\prueba.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Application\\PesajeInteligente.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Application\\PesajeInteligente.Application.csproj",
+        "projectName": "PesajeInteligente.Application",
+        "projectPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Application\\PesajeInteligente.Application.csproj",
+        "packagesPath": "C:\\Users\\sql.programador16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sql.programador16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\localPaqueNuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.opa.com.co:444/nuget": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Entities\\PesajeInteligente.Entities.csproj": {
+                "projectPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Entities\\PesajeInteligente.Entities.csproj"
+              },
+              "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Infrastructure\\PesajeInteligente.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Infrastructure\\PesajeInteligente.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Entities\\PesajeInteligente.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Entities\\PesajeInteligente.Entities.csproj",
+        "projectName": "PesajeInteligente.Entities",
+        "projectPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Entities\\PesajeInteligente.Entities.csproj",
+        "packagesPath": "C:\\Users\\sql.programador16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sql.programador16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\localPaqueNuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.opa.com.co:444/nuget": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Infrastructure\\PesajeInteligente.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Infrastructure\\PesajeInteligente.Infrastructure.csproj",
+        "projectName": "PesajeInteligente.Infrastructure",
+        "projectPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Infrastructure\\PesajeInteligente.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\sql.programador16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sql.programador16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\localPaqueNuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.opa.com.co:444/nuget": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Entities\\PesajeInteligente.Entities.csproj": {
+                "projectPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Entities\\PesajeInteligente.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\prueba\\prueba.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\prueba\\prueba.csproj",
+        "projectName": "prueba",
+        "projectPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\prueba\\prueba.csproj",
+        "packagesPath": "C:\\Users\\sql.programador16\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\prueba\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sql.programador16\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\localPaqueNuget": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.opa.com.co:444/nuget": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Application\\PesajeInteligente.Application.csproj": {
+                "projectPath": "C:\\Users\\sql.programador16\\source\\repos\\PesajeInteligente\\PesajeInteligente.Application\\PesajeInteligente.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
