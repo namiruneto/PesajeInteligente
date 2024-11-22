@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PesajeInteligente")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ff57e9154ed508f160370c64df606bcc5a4773")]
 [assembly: System.Reflection.AssemblyProductAttribute("PesajeInteligente")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PesajeInteligente")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
